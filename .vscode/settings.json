@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./proficiencia.dev.api/config"
+    ]
+}
