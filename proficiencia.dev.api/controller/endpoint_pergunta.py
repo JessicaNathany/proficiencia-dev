@@ -11,10 +11,14 @@ class ChatGPT(Resource):
         response = requests.post('https://api.openai.com/v1/answers', json=payload, headers=headers)
         answer = response.json()['answers'][0]['text']
         return {'answer': answer}
+    
+        
 
 app = Flask(__name__)
 api = Api(app)
 api.add_resource(ChatGPT, '/chatgpt')
+
+    
 
 if __name__ == '__main__':
     app.run(debug=True)
