@@ -1,9 +1,9 @@
 import openai
 import config
 import requests
+import os
 
-
-class OpenAIClient:
+class ClientGpt:
     def __init__(self):
         openai.api_key = config.API_KEY
         openai.api_endpoint = config.OPENAI_ENDPOINT
