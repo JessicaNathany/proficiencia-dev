@@ -12,7 +12,7 @@ def pergunta():
 
     headers = {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer API-KEY',
+        'Authorization': 'Bearer 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',
     }
 
     data = {
