@@ -30,7 +30,5 @@ Frameworks e ferramentas utilizadas no projeto
 
 ## ✒️ Autores
 
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
-
 * **Felipe Rosa** - [Software Engineer Fullstack](https://github.com/eufelipe)
 * **Jéssica Nathany** - [Software Engineer Backend](https://github.com/JessicaNathany)
