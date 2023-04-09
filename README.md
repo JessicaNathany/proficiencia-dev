@@ -1,8 +1,3 @@
-# proficiencia-dev
-Aplicação que avalia o conhecimento de desenvolvedores
-
-
-
 # Proficiencia Dev
 
  O projeto tem como objetivo ajudar os desenvolvedores a alavancar sua carreira através das seguintes funcionalidades: 
@@ -12,23 +7,15 @@ Aplicação que avalia o conhecimento de desenvolvedores
  * Criação de um roadpmap perfonalizado de acordo com o perfil do(a) Dev
 
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
+* Node.js v18.15.0
+* React 18.2.0
 
-```
-Dar exemplos
-```
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
+Clone o projeto e instale a versão do NodeJs v18.15.0 e depois de um npm install para atualizar os componentes.
 
 Diga como essa etapa será:
 
@@ -36,45 +23,27 @@ Diga como essa etapa será:
 Dar exemplos
 ```
 
+```
 E repita:
+```
+
 
 ```
 Até finalizar
 ```
 
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
 ```
 Dar exemplos
 ```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-## 📦 Implantação
-
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
+Frameworks e ferramentas utilizadas no projeto
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - O framework web usado
-* [Maven](https://maven.apache.org/) - Gerente de Dependência
-* [ROME](https://rometools.github.io/rome/) - Usada para gerar RSS
+* [NodeJs]([https://nodejs.org/en]) 
+* [React]([https://react.dev/]) 
+* [Chackra.ui]([https://chakra-ui.com/]) 
+* [OpenAI]([https://platform.openai.com/]) - Integração dom OpenAI
 
 ## 🖇️ Colaborando
 
